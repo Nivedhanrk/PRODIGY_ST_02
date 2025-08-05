@@ -8,7 +8,7 @@ Check whether the website layout, links, and functionality behave consistently a
 
 Browsers Tested
 
-Google Chrome (Windows 10)
+Google Chrome (Windows 10) /n
 Mozilla Firefox (Windows 10)
 Safari (iPhone 15 Pro Max)
 Microsoft Edge (Windows 10)
